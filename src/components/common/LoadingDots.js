@@ -2,7 +2,7 @@ import React from 'react';
 
 const LoadingDots = () => {
   return (
-    <span> ... ... ... ... ... ... </span>
+    <span> .....loading..... </span>
   );
 };
 
